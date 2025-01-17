@@ -2,7 +2,7 @@
 
 A beautiful and functional To-Do List application built with Python Tkinter and SQLite database integration. Keep track of your tasks with persistent storage and an intuitive user interface.
 
-![Application Preview](images/preview.png)
+
 
 ## ✨ Features
 
@@ -135,7 +135,7 @@ The application includes comprehensive error handling:
 
 Your Name - HEDAYAT
 
-Project Link: (https://github.com/yourusername/python-todo-list)
+Project Link: [(python-todo-list)](https://github.com/Hedayat-design/To_do_list)
 
 ---
 Made with ❤️ by HEDAYAT(https://github.com/yourusername)
